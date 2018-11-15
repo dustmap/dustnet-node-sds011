@@ -4,7 +4,7 @@ This is the firmware for a dustnet-node. It has been build especially for the [D
 
 *This documentation is a work-in-progress.*
 
-This Project has been supported by [![netidee][https://www.netidee.at/themes/Netidee/images/netidee-logo-color.svg]](https://www.netidee.at).
+This Project has been generously supported by [![netidee](https://www.netidee.at/themes/Netidee/images/netidee-logo-color.svg)](https://www.netidee.at).
 
 ## Hardware
 
