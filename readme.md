@@ -1,10 +1,10 @@
 # Dustnet Node
 
-This is the firmware for a dustnet-node. It has been build especially for the [Dustmap](https://dustmap.org) project. It uses [RoLaWAN](https://lora-alliance.org/about-lorawan) and [The Things Network](https://www.thethingsnetwork.org) (short: TTN) to transmit sensor measurements.
+This is the firmware for a dustnet-node. It has been build especially for the [Dustmap](https://dustmap.org) project. It uses [LoRaWAN](https://lora-alliance.org/about-lorawan) and [The Things Network](https://www.thethingsnetwork.org) (short: TTN) to transmit sensor measurements.
 
 *This documentation is a work-in-progress.*
 
-This Project has been generously supported by [![netidee](https://www.netidee.at/themes/Netidee/images/netidee-logo-color.svg)](https://www.netidee.at).
+This open source project has been generously supported by [![netidee](https://www.netidee.at/themes/Netidee/images/netidee-logo-color.svg)](https://www.netidee.at).
 
 ## Hardware
 
